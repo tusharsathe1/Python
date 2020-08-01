@@ -1,0 +1,9 @@
+The application collects IP addresses, login credentials and commands to be executed from files provided by user. 
+
+Application in this folder is designed to login to a Cisco router, execute desired commands and return the output to the screen.
+
+"netapp.py" is the main application file that should be executed on the terminal. Follow below steps to run the application:
+
+1. Copy all the files to a folder on the local machine.
+2. Edit all the .txt files as per your requirements.
+3. Follow the prompt after running the application to input required files.
